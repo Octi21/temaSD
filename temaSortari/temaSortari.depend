@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615731449 source:c:\other\codcb\temasortari\main.cpp
+	<iostream>
+	<vector>
+	<time.h>
+	<algorithm>
+
